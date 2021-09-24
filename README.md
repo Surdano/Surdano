@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Surdano
+- 👋 Hi, I’m Thomas Leahy
 - 👀 I’m interested in learning about new technologies
 - 🌱 I’m currently learning about programming and FinTech
 - 💞️ I’m looking to collaborate on any project where I can help create value and spur innovation
